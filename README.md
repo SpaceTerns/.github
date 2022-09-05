@@ -1,4 +1,4 @@
-# SpaceTerns
+# SpaceTerns 👩‍🚀
 
 Hey there, we are SpaceTerns - a company focused towards making finding internships fun and easy based on your personal interests. We have wide range of 
 companies offering paid/unpaid internships be it architectural, market, engineering or even medicine. Additionally, you can work on-site or remotely too.
